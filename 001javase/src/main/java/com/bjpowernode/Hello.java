@@ -19,6 +19,7 @@ public class Hello {
         System.out.println("再次测试");
         System.out.println("再次测试");
         System.out.println("再次测试");
+        System.out.println("");
 
     }
 }
