@@ -5,5 +5,6 @@
 public class One {
     public static void main(String[] args) {
         System.out.println("程序员克隆后增加的类");
+        System.out.println("新增的模块");
     }
 }
