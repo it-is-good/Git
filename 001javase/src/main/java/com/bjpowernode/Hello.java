@@ -23,5 +23,7 @@ public class Hello {
         System.out.println("造成测试");
         System.out.println();
 
+        System.out.println("程序员被邀请后增加的内容");
+
     }
 }
